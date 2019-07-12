@@ -127,6 +127,67 @@
     },
     "registerationsHeld":
     {
-        
+        "memberLicenses": [
+            {
+                "memberLicenseId": {
+                    "value": "b6942e7c-0441-e811-80fd-0050569a1c9a",
+                    "isReadOnly": true
+                },
+                "registrationNumber": {
+                    "value": "b6942e7c-0441-e811-80fd-0050569a1c9a",
+                    "isReadOnly": false,
+                    "validationRule": "^[0][1-9]\\d{9}$|^[1-9]\\d{9}$"
+                },
+                "licenseName": {
+                    "value": "Registered Tax Agent",
+                    "isReadOnly": true
+                },
+                "licenseId": {
+                    "value": "04439433-c785-e011-bad3-005056b30007",
+                    "isReadOnly": true
+                }
+            },
+            {
+                "memberLicenseId": {
+                    "value": "b6942e7c-0441-e811-80fd-0050569a1c9a",
+                    "isReadOnly": true
+                },
+                "registrationNumber": {
+                    "value": "b6942e7c-0441-e811-80fd-0050569a1c9a",
+                    "isReadOnly": false,
+                    "validationRule": "^[0][1-9]\\d{9}$|^[1-9]\\d{9}$"
+                },
+                "licenseName": {
+                    "value": "Registered Tax Agent",
+                    "isReadOnly": true
+                },
+                "licenseId": {
+                    "value": "04439433-c785-e011-bad3-005056b30007",
+                    "isReadOnly": true
+                }
+            }
+          ],
+          "licenses": [
+            {
+                "licenseName": {
+                    "value": "Registered Tax Agent",
+                    "isReadOnly": true
+                },
+                "licenseId": {
+                    "value": "04439433-c785-e011-bad3-005056b30007",
+                    "isReadOnly": true
+                }
+            },
+            {
+                "licenseName": {
+                    "value": "Registered Tax Agent",
+                    "isReadOnly": true
+                },
+                "licenseId": {
+                    "value": "04439433-c785-e011-bad3-005056b30007",
+                    "isReadOnly": true
+                }
+            }
+          ]
     }
 }
